@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uromaeca.github.io/BNo/sitemap_index.txt
+Sitemap: https://uromaeca.github.io/CiE/sitemap_index.txt
+Sitemap: https://uromaeca.github.io/JOx/sitemap_index.txt
+Sitemap: https://uromaeca.github.io/mpY/sitemap_index.txt
